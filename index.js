@@ -1560,6 +1560,7 @@
      * T-rex player config.
      * @enum {number}
      */
+    
     Trex.config = {
         DROP_VELOCITY: -5,
         GRAVITY: 0.1,
